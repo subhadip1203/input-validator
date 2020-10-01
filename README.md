@@ -12,7 +12,8 @@ features:
     b. isAlpha : only Alphabetical letters allowed ,  
     c. isAlphaSpace : only Alphabetical letters and Blank_Space allowed ,  
     d. isEmail : only valid Email allowed ,  
-    e. isDateTime : only valid date or date_time allowed' ,  
+    e. isDateTime : only valid date or date_time allowed' , 
+    f. required  : required or not
 
 
 2.  validate different "Lengths" property:
